@@ -17,6 +17,8 @@ This project analyzes sales transactions and operational metrics for a bicycle r
 
 ## Dashboard Preview
 ![Dashboard](https://github.com/user-attachments/assets/733f2bd4-4ae9-4809-a7ab-234df7f334a2)
+![WhatsApp Image 2026-02-02 at 8 34 48 PM](https://github.com/user-attachments/assets/84348e94-8b9d-4cca-b775-468b9ea9f048)
+
 
 
 
